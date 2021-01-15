@@ -1,0 +1,95 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+}
+h1 {
+  font-size: 50px;
+}
+.name-highlight {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 100%;
+  padding: 20px;
+}
+.top-banner {
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+  padding-bottom: 150px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-weight: 700;
+}
+.next-banner {
+  padding-bottom: 100px;
+  background-color: azure;
+}
+#about {
+  padding-top: 110px;
+}
+
+.Experience-area {
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  padding-bottom: 50px;
+  padding: 40px;
+}
+.single-experience {
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 20px;
+  height: 80%;
+  width: 23%;
+  background-color: rgb(255, 255, 255);
+}
+.design-part {
+  margin: auto;
+  width: 70%;
+  border-radius: 30px;
+  background-color: rgb(238, 238, 238);
+  background-size: contain;
+  height: 150px;
+  padding-bottom: 10px;
+  box-shadow: 10px 10px 35px #979797;
+}
+.design-point {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.chat-btn {
+  padding-top: 110px;
+  text-align: right;
+}
+
+.chat-button {
+  text-decoration: none;
+  color: #0a0a0a;
+  background-image: linear-gradient(45deg, #ebb773, #eec303);
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 35px #979797;
+}
+.work-heading h1 {
+  padding-top: 25px;
+  font-size: 45px;
+}
